@@ -69,3 +69,13 @@ EDA involves the exploring of the Data to answer some Questions about the Data s
 
 ![image](https://github.com/user-attachments/assets/787c59df-8c94-4706-852f-1edc2c06020c)
 
+
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/1a930c5b-06d1-41ab-b850-b560578fe022)
+
+
