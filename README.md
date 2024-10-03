@@ -43,3 +43,7 @@ EDA involves the exploring of the Data to answer some Questions about the Data s
  SELECT * FROM TABLE1
  WHERE CONDITION = TRUE
  ```
+
+### Data Visualization
+---
+
