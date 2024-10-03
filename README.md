@@ -55,5 +55,9 @@ EDA involves the exploring of the Data to answer some Questions about the Data s
 ### Data Visualization
 ---
 
+![image](https://github.com/user-attachments/assets/be477604-73ff-4a43-917e-ee41a6425c40)
+
+
+
 
 
