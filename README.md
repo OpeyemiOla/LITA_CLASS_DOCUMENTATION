@@ -17,3 +17,17 @@ The primary Sources of Data used here is Data Sale.csv and this is an open sourc
 
 - SQL - Structured Query Language for Querying of Data
 - Github for Portfolio Building
+
+### Data Cleaning and preparation
+In the initial phase of Data Cleaning and preparations, the following steps were taken;
+   1. Data assessment and profiling
+   2. Handling missing values
+   3. Data cleaning and Formatting
+
+### Exploratoty Data Analysis
+EDA involves the exploring of the Data to answer some Questions about the Data such as;
+- What is the overall sales trend?
+- Which products are top sellers?
+- What are the products on peak sales?
+
+ 
