@@ -2,6 +2,14 @@
 
 ### Project Title: LITA DATA ANALYSIS
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Tools Used](#tools-used)
+
+[Data Cleaning and Preparation](#data-cleaning-and-preparation)
+
 ### Project Overview
 ---
 Data analysis is the process of inspecting, cleaning, transforming, and modeling data to discover useful information, draw conclusions, and support decision-making. It involves several steps which includes; Data Collection, Data Cleaning, Data Exploration, Data Modeling and Interpretation and Reporting.
